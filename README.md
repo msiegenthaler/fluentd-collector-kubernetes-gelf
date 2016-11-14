@@ -1,6 +1,6 @@
 # Fluentd Log Collector For Kubernetes to Graylog
 
-Collects the Kubernetes Logs and sends them to Graylog via GELF.
+Collects logs from docker containers running in kubernetes and sends them to Graylog via GELF.
 
 
 ##Environment variables used by the image:
